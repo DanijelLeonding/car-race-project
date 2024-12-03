@@ -13,6 +13,7 @@ namespace CarProject.Logic
         public TrackBuilder((int, int)[] sectionInfos)
         {
             this.sectionInfos = sectionInfos;
+            //Tegggst
         }
     }
 }
